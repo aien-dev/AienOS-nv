@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=AienOS
+Comment=Set up and chat with your local model (AienOS alpha, written in Omega)
+Exec="@AIENOS@" wizard
+Icon=@ICON@
+Terminal=true
+Categories=Development;Utility;
