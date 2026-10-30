@@ -19,7 +19,7 @@ This repository describes AienOS and links its parts. It publishes no releases.
 | **CUDA++**: GPU programming without NVIDIA's user-space stack | [aien-dev/CUDApp](https://github.com/aien-dev/CUDApp) |
 | The engine (Sovereign Core) | [aien-dev/aien-sovereign-core-mv](https://github.com/aien-dev/aien-sovereign-core-mv) |
 
-What I am building, in plain words, and where each piece stands: `docs/WHAT-I-AM-BUILDING.md`.
+What I am building, in plain words, and where each piece stands: [WHAT-I-AM-BUILDING.md](https://github.com/aien-dev/sovereign-intelligence/blob/main/docs/WHAT-I-AM-BUILDING.md) in sovereign-intelligence.
 More: https://www.aienos.com/
 
 Licensed under the Apache License 2.0 with LLVM Exceptions ([`LICENSE`](LICENSE), [`NOTICE`](NOTICE)).
